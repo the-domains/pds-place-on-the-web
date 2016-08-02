@@ -1,4 +1,3 @@
-layout_spectrum: 0.7396623359527439
 typography_spectrum: 0.04636887204833329
 color:
   brandStrength: 0.005802803207188845
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.7396623359527439
 name: PD's place on the web
 title: JUST LET IT HAPPEN
+description: here we go
