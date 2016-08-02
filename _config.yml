@@ -22,5 +22,8 @@ navigation:
   - name: CHRISTMAS 2015
     url: 'https://www.youtube.com/watch?v=eJGkylqfOrw'
     type: external
+  - name: 'https://www.youtube.com/watch?v=9kq3WNabHQ4'
+    url: 'https://www.youtube.com/watch?v=9kq3WNabHQ4'
+    type: external
 title: JUST LET IT HAPPEN
 description: here we go
