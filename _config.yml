@@ -22,9 +22,6 @@ navigation:
   - name: CHRISTMAS 2015
     url: 'https://www.youtube.com/watch?v=eJGkylqfOrw'
     type: external
-  - name: TOFFE CAMPER
-    url: 'https://www.youtube.com/watch?v=9kq3WNabHQ4'
-    type: external
   - name: ROAD TO NOWHERE
     url: 'https://www.youtube.com/watch?v=2AVxKBvM_HU'
     type: external
