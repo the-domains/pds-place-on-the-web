@@ -25,5 +25,8 @@ navigation:
   - name: ROAD TO NOWHERE
     url: 'https://www.youtube.com/watch?v=2AVxKBvM_HU'
     type: external
+  - name: TOFFE CAMPER
+    url: 'https://www.youtube.com/watch?v=h7YaJHFCup8'
+    type: external
 title: JUST LET IT HAPPEN
 description: here we go
