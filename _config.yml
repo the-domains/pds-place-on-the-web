@@ -1,16 +1,16 @@
-typography_spectrum: 0.32548250001855195
+typography_spectrum: 0.5146278145257384
 color:
-  brandStrength: 0.3685801229439676
-  lightness: 0.5157297761179507
-  saturation: 0.4708521938882768
-  rhythmicContrast: 0.3952735688071698
+  brandStrength: 0.6672021895647049
+  lightness: 0.5872260862961411
+  saturation: 0.7464264426380396
+  rhythmicContrast: 0.009294194867834449
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
-layout_spectrum: 0.5270754948724061
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.3856536822859198
 name: PD's place on the web
 navigation:
   - name: PD@ETCETERA
